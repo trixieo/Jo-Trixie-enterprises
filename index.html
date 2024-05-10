@@ -16,7 +16,11 @@
             <ul class="header-list">
                 <li><img src="" alt="logo"></li>
                 <li><a href="" class="header-link">Store Locator</a></li>
-                <li><input type="search" class="header-link" placeholder="Search for any item"></li>
+                
+                <li><form action="/search" method="GET">
+                    <input type="text" name="q" placeholder="Search">
+                    <button type="submit" id="search">Search</button>
+                  </form></li>
                 <li><a href="Login.html" class="header-link">Account</a></li>
                 <li><a href="" class="header-link">Cart</a></li>
                 <li><a href="" class="header-link">help</a></li>
