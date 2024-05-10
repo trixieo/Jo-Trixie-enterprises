@@ -1,0 +1,814 @@
+Sex,Facility type,Years of professional experience,Work experience,Job description,Experience sharing with peers
+Male,District health office,Less than 1 year,Current facility alone,No,No
+Male,Primary hospital,1-5years,One additional facility,Yes,Yes
+Female,Health center,6-10 years,Two additiuonal facilities,Yes,Yes
+Female,Primary hospital,More than 10 years,Three or more additional facilities,No,No
+Female,Health center,1-5years,Current facility alone,Yes,Yes
+Male,Health center,6-10 years,One additional facility,Yes,Yes
+Male,Primary hospital,More than 10 years,Two additiuonal facilities,No,No
+Female,District health office,Less than 1 year,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Current facility alone,Yes,Yes
+Female,Primary hospital,1-5years,One additional facility,No,No
+Male,District health office,6-10 years,Two additiuonal facilities,Yes,Yes
+Female,Health center,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Two additiuonal facilities,Yes,Yes
+Male,District health office,6-10 years,Current facility alone,Yes,Yes
+Female,Health center,More than 10 years,One additional facility,No,No
+Male,Primary hospital,Less than 1 year,Three or more additional facilities,Yes,Yes
+Male,Health center,1-5years,Two additiuonal facilities,No,No
+Female,District health office,6-10 years,One additional facility,Yes,Yes
+Male,Health center,More than 10 years,Current facility alone,Yes,Yes
+Female,Primary hospital,1-5years,Three or more additional facilities,No,No
+Male,District health office,Less than 1 year,Two additiuonal facilities,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,Primary hospital,More than 10 years,One additional facility,No,No
+Female,District health office,Less than 1 year,Three or more additional facilities,Yes,Yes
+Male,Health center,1-5years,Current facility alone,Yes,Yes
+Female,Primary hospital,6-10 years,Two additiuonal facilities,No,No
+Male,District health office,More than 10 years,One additional facility,Yes,Yes
+Female,Health center,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Current facility alone,No,No
+Female, Health center,6-10 years,Two additiuonal facilities,Yes,Yes
+Male,District health office,More than 10 years,Three or more additional facilities,No,No
+Female,Primary hospital,1-5years,Current facility alone,Yes,Yes
+Male,Health center,Less than 1 year,Two additiuonal facilities,Yes,Yes
+Female,District health office,6-10 years,One additional facility,No,No
+Male,Primary hospital,More than 10 years,Current facility alone,Yes,Yes
+Female,Health center,1-5years,Three or more additional facilities,No,No
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Health center,6-10 years,Two additiuonal facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Three or more additional facilities,No,No
+Female,District health office,1-5years,Current facility alone,Yes,Yes
+Male,Health center,Less than 1 year,Two additiuonal facilities,Yes,Yes
+Female,Primary hospital,6-10 years,One additional facility,No,No
+Male,District health office,More than 10 years,Three or more additional facilities,Yes,Yes
+Female,Health center,1-5years,Current facility alone,No,No
+Male,Primary hospital,Less than 1 year,Two additiuonal facilities,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Health center,More than 10 years,One additional facility,No,No
+Female,Primary hospital,1-5years,Current facility alone,Yes,Yes
+Male,District health office,Less than 1 year,Two additiuonal facilities,No,No
+Female,Health center,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,Yes,Yes
+Female,District health office,1-5years,One additional facility,No,No
+Male,Health center,Less than 1 year,Two additiuonal facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Three or more additional facilities,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,One additional facility,Yes,Yes
+Male,Primary hospital,Less than 1 year,Two additiuonal facilities,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,No,No
+Male,Health center,More than 10 years,Current facility alone,Yes,Yes
+Female,Primary hospital,1-5years,Two additiuonal facilities,No,No
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,Primary hospital,More than 10 years,Three or more additional facilities,No,No
+Female,District health office,1-5years,Two additiuonal facilities,Yes,Yes
+Male,Health center,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,District health office,More than 10 years,One additional facility,Yes,Yes
+Female,Health center,1-5years,Two additiuonal facilities,No,No
+Male,Primary hospital,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,District health office,6-10 years,Current facility alone,Yes,Yes
+Male,Health center,More than 10 years,One additional facility,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,Two additiuonal facilities,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,Primary hospital,More than 10 years,One additional facility,No,No
+Female,District health office,1-5years,Two additiuonal facilities,Yes,Yes
+Male,Health center,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,District health office,More than 10 years,Two additiuonal facilities,Yes,Yes
+Female,Health center,1-5years,Three or more additional facilities,No,No
+Male,Primary hospital,Less than 1 year,Current facility alone,Yes,Yes
+Female,District health office,6-10 years,One additional facility,Yes,Yes
+Male,Health center,More than 10 years,Two additiuonal facilities,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,Current facility alone,Yes,Yes
+Female,Health center,6-10 years,One additional facility,No,No
+Male,Primary hospital,More than 10 years,Two additiuonal facilities,Yes,Yes
+Female,District health office,1-5years,Current facility alone,Yes,Yes
+Male,Health center,Less than 1 year,Three or more additional facilities,No,No
+Female,Primary hospital,6-10 years,Two additiuonal facilities,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,Yes,Yes
+Female,Health center,1-5years,Three or more additional facilities,No,No
+Male,Primary hospital,Less than 1 year,One additional facility,Yes,Yes
+Female,District health office,6-10 years,Two additiuonal facilities,Yes,Yes
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Health center,6-10 years,Two additiuonal facilities,No,No
+Male,Primary hospital,More than 10 years,Three or more additional facilities,Yes,Yes
+Female,District health office,1-5years,Current facility alone,Yes,Yes
+Male,Health center,Less than 1 year,Two additiuonal facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Three or more additional facilities,No,No
+Male,District health office,More than 10 years,One additional facility,Yes,Yes
+Female,Health center,1-5years,Current facility alone,No,No
+Male,Primary hospital,Less than 1 year,Two additiuonal facilities,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Health center,More than 10 years,Current facility alone,Yes,Yes
+Female,Primary hospital,1-5years,Three or more additional facilities,No,No
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Health center,6-10 years,Two additiuonal facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Two additiuonal facilities,Yes,Yes
+Male,Health center,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,More than 10 years,One additional facility,No,No
+Female,Health center,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Two additiuonal facilities,Yes,Yes
+Female,District health office,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,One additional facility,No,No
+Sex,Facility type,Years of professional experience,Work experience,Job description,Experience sharing with peers
+Male,Primary hospital,1-5years,One additional facility,Yes,Yes
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Male,Health center,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Two additional facilities,Yes,Yes
+Male,District health office,6-10 years,Current facility alone,Yes,Yes
+Female,Health center,6-10 years,Two additional facilities,Yes,Yes
+Male,District health office,More than 10 years,Two additional facilities,No,No
+Female,Primary hospital,1-5years,Current facility alone,No,No
+Male,District health office,6-10 years,Two additional facilities,Yes,Yes
+Female,Primary hospital,1-5years,One additional facility,Yes,Yes
+Male,Health center,More than 10 years,Current facility alone,Yes,Yes
+Female,District health office,Less than 1 year,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Current facility alone,Yes,Yes
+Male,District health office,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Current facility alone,Yes,Yes
+Male,Primary hospital,Less than 1 year,Current facility alone,Yes,Yes
+Female,Health center,6-10 years,One additional facility,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Current facility alone,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,One additional facility,Yes,Yes
+Male,Primary hospital,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,Health center,6-10 years,One additional facility,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Two additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,No,No
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Two additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,More than 10 years,Two additional facilities,Yes,Yes
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Current facility alone,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Two additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,Health center,6-10 years,Two additional facilities,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,District health office,6-10 years,Current facility alone,No,No
+Male,Primary hospital,More than 10 years,One additional facility,No,No
+Female,Health center,1-5years,Three or more additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,Yes,Yes
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,One additional facility,Yes,Yes
+Male,Primary hospital,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Health center,6-10 years,Three or more additional facilities,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Current facility alone,Yes,Yes
+Female,District health office,6-10 years,One additional facility,No,No
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Three or more additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Two additional facilities,Yes,Yes
+Male,Health center,More than 10 years,Current facility alone,Yes,Yes
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,Yes,Yes
+Sex,Facility type,Years of professional experience,Work experience,Job description,Experience sharing with peers
+Male,Primary hospital,1-5years,Two additional facilities,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,One additional facility,Yes,Yes
+Male,District health office,6-10 years,Current facility alone,Yes,Yes
+Female,Health center,6-10 years,Two additional facilities,Yes,Yes
+Male,District health office,More than 10 years,Two additional facilities,No,No
+Female,Primary hospital,1-5years,Current facility alone,No,No
+Male,District health office,6-10 years,Two additional facilities,Yes,Yes
+Female,Primary hospital,1-5years,One additional facility,Yes,Yes
+Male,Health center,More than 10 years,Current facility alone,Yes,Yes
+Female,District health office,Less than 1 year,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Current facility alone,Yes,Yes
+Male,District health office,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Current facility alone,Yes,Yes
+Male,Primary hospital,Less than 1 year,Current facility alone,Yes,Yes
+Female,Health center,6-10 years,One additional facility,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Current facility alone,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,One additional facility,Yes,Yes
+Male,Primary hospital,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,Health center,6-10 years,One additional facility,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Two additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,No,No
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Two additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,More than 10 years,Two additional facilities,Yes,Yes
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Current facility alone,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Two additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,Health center,6-10 years,Two additional facilities,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,District health office,6-10 years,Current facility alone,No,No
+Male,Primary hospital,More than 10 years,One additional facility,No,No
+Female,Health center,1-5years,Three or more additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,Yes,Yes
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,Yes,Yes
+Sex,Facility type,Years of professional experience,Work experience,Job description,Experience sharing with peers
+Male,Primary hospital,1-5years,One additional facility,Yes,Yes
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Two additional facilities,Yes,Yes
+Male,District health office,6-10 years,Current facility alone,Yes,Yes
+Female,Health center,6-10 years,One additional facility,Yes,Yes
+Male,District health office,More than 10 years,Two additional facilities,No,No
+Female,Primary hospital,1-5years,Current facility alone,No,No
+Male,District health office,6-10 years,Two additional facilities,Yes,Yes
+Female,Primary hospital,1-5years,One additional facility,Yes,Yes
+Male,Health center,More than 10 years,Current facility alone,Yes,Yes
+Female,District health office,Less than 1 year,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Current facility alone,Yes,Yes
+Male,District health office,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Current facility alone,Yes,Yes
+Male,Primary hospital,Less than 1 year,Current facility alone,Yes,Yes
+Female,Health center,6-10 years,One additional facility,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Current facility alone,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,One additional facility,Yes,Yes
+Male,Primary hospital,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,Health center,6-10 years,One additional facility,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Two additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,No,No
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Two additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,More than 10 years,Two additional facilities,Yes,Yes
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Current facility alone,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Two additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,Health center,6-10 years,Two additional facilities,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,District health office,6-10 years,Current facility alone,No,No
+Male,Primary hospital,More than 10 years,One additional facility,No,No
+Female,Health center,1-5years,Three or more additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,Yes,Yes
+Sex,Facility type,Years of professional experience,Work experience,Job description,Experience sharing with peers
+Male,Primary hospital,Less than 1 year,Two additional facilities,Yes,Yes
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Two additional facilities,Yes,Yes
+Male,District health office,6-10 years,Current facility alone,Yes,Yes
+Female,Health center,6-10 years,One additional facility,Yes,Yes
+Male,District health office,More than 10 years,Two additional facilities,No,No
+Female,Primary hospital,1-5years,Current facility alone,No,No
+Male,District health office,6-10 years,Two additional facilities,Yes,Yes
+Female,Primary hospital,1-5years,One additional facility,Yes,Yes
+Male,Health center,More than 10 years,Current facility alone,Yes,Yes
+Female,District health office,Less than 1 year,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Current facility alone,Yes,Yes
+Male,District health office,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Current facility alone,Yes,Yes
+Male,Primary hospital,Less than 1 year,Current facility alone,Yes,Yes
+Female,Health center,6-10 years,One additional facility,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Current facility alone,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,One additional facility,Yes,Yes
+Male,Primary hospital,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,Health center,6-10 years,One additional facility,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Two additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Two additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,Health center,6-10 years,One additional facility,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,District health office,6-10 years,Current facility alone,No,No
+Male,Primary hospital,More than 10 years,One additional facility,No,No
+Female,Health center,1-5years,Three or more additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Two additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,More than 10 years,Two additional facilities,Yes,Yes
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Current facility alone,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Sex,Facility type,Years of professional experience,Work experience,Job description,Experience sharing with peers
+Male,District health office,6-10 years,One additional facility,Yes,Yes
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Male,Primary hospital,Less than 1 year,Two additional facilities,Yes,Yes
+Female,District health office,6-10 years,Two additional facilities,Yes,Yes
+Male,Health center,6-10 years,One additional facility,Yes,Yes
+Female,Primary hospital,1-5years,One additional facility,Yes,Yes
+Male,Health center,More than 10 years,Current facility alone,Yes,Yes
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Current facility alone,Yes,Yes
+Male,District health office,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Two additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Current facility alone,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Current facility alone,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Two additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,Health center,6-10 years,One additional facility,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,District health office,6-10 years,Current facility alone,No,No
+Male,Primary hospital,More than 10 years,One additional facility,No,No
+Female,Health center,1-5years,Three or more additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Health center,6-10 years,One additional facility,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Health center,6-10 years,One additional facility,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,District health office,6-10 years,Current facility alone,No,No
+Male,Primary hospital,More than 10 years,One additional facility,No,No
+Female,Health center,1-5years,Three or more additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Two additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Three or more additional facilities,Yes,Yes
+Female,Health center,6-10 years,One additional facility,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Sex,Facility type,Years of professional experience,Work experience,Job description,Experience sharing with peers
+Male,Primary hospital,6-10 years,One additional facility,Yes,Yes
+Female,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Male,District health office,1-5years,Two additional facilities,Yes,Yes
+Female,Primary hospital,More than 10 years,Current facility alone,No,No
+Male,Health center,6-10 years,One additional facility,Yes,Yes
+Female,District health office,1-5years,One additional facility,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Female,Primary hospital,More than 10 years,Current facility alone,No,No
+Male,Health center,6-10 years,Current facility alone,Yes,Yes
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,Less than 1 year,Current facility alone,Yes,Yes
+Male,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Female,Primary hospital,More than 10 years,Current facility alone,No,No
+Male,Health center,6-10 years,Current facility alone,Yes,Yes
+Female,District health office,Less than 1 year,Two additional facilities,Yes,Yes
+Male,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Female,Health center,More than 10 years,Current facility alone,No,No
+Male,District health office,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Current facility alone,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,District health office,6-10 years,Current facility alone,No,No
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Health center,6-10 years,One additional facility,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Health center,6-10 years,One additional facility,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Sex,Facility type,Years of professional experience,Work experience,Job description,Experience sharing with peers
+Male,Primary hospital,1-5years,Current facility alone,No,No
+Female,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Male,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Female,Primary hospital,More than 10 years,Current facility alone,No,No
+Male,Health center,6-10 years,Current facility alone,Yes,Yes
+Female,District health office,1-5years,Two additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Female,Primary hospital,More than 10 years,Current facility alone,No,No
+Male,Health center,6-10 years,Current facility alone,Yes,Yes
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,Less than 1 year,Current facility alone,Yes,Yes
+Male,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Female,Primary hospital,More than 10 years,Current facility alone,No,No
+Male,Health center,6-10 years,Current facility alone,Yes,Yes
+Female,District health office,Less than 1 year,Two additional facilities,Yes,Yes
+Male,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Female,Health center,More than 10 years,Current facility alone,No,No
+Male,District health office,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Current facility alone,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Sex,Facility type,Years of professional experience,Work experience,Job description,Experience sharing with peers
+Male,Primary hospital,1-5years,Current facility alone,No,No
+Female,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Male,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Female,Primary hospital,More than 10 years,Current facility alone,No,No
+Male,Health center,6-10 years,Current facility alone,Yes,Yes
+Female,District health office,1-5years,Two additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Female,Primary hospital,More than 10 years,Current facility alone,No,No
+Male,Health center,6-10 years,Current facility alone,Yes,Yes
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,Less than 1 year,Current facility alone,Yes,Yes
+Male,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Female,Primary hospital,More than 10 years,Current facility alone,No,No
+Male,Health center,6-10 years,Current facility alone,Yes,Yes
+Female,District health office,Less than 1 year,Two additional facilities,Yes,Yes
+Male,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Female,Health center,More than 10 years,Current facility alone,No,No
+Male,District health office,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Current facility alone,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Sex,Facility type,Years of professional experience,Work experience,Job description,Experience sharing with peers
+Male,Primary hospital,1-5years,Current facility alone,No,No
+Female,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Male,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Female,Primary hospital,More than 10 years,Current facility alone,No,No
+Male,Health center,6-10 years,Current facility alone,Yes,Yes
+Female,District health office,1-5years,Two additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Female,Primary hospital,More than 10 years,Current facility alone,No,No
+Male,Health center,6-10 years,Current facility alone,Yes,Yes
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,Less than 1 year,Current facility alone,Yes,Yes
+Male,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Female,Primary hospital,More than 10 years,Current facility alone,No,No
+Male,Health center,6-10 years,Current facility alone,Yes,Yes
+Female,District health office,Less than 1 year,Two additional facilities,Yes,Yes
+Male,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Female,Health center,More than 10 years,Current facility alone,No,No
+Male,District health office,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Current facility alone,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+Female,District health office,1-5years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,Less than 1 year,Two additional facilities,Yes,Yes
+Female,Health center,6-10 years,Current facility alone,Yes,Yes
+Male,District health office,More than 10 years,Current facility alone,No,No
+Female,Primary hospital,1-5years,Three or more additional facilities,Yes,Yes
+Male,Health center,Less than 1 year,Two additional facilities,Yes,Yes
+Female,District health office,6-10 years,Three or more additional facilities,Yes,Yes
+Male,Primary hospital,More than 10 years,Current facility alone,No,No
+Female,Health center,1-5years,Two additional facilities,Yes,Yes
+Male,District health office,Less than 1 year,One additional facility,Yes,Yes
+Female,Primary hospital,6-10 years,Current facility alone,No,No
+Male,Health center,More than 10 years,Current facility alone,No,No
+
+
+

@@ -1,0 +1,79 @@
+body{
+    font-family:'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+label{
+    display: block;
+}
+#forgot{
+    margin-left: 120px;
+}
+ fieldset{
+    margin: 0 auto;
+    max-width: 500px;
+    min-width: 300px;
+    width: 60vw;
+    border-radius: 10px;
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    color: #002D00;
+    border-color: #002D00;
+    
+}
+a{
+    color: #002D00;
+    
+}
+a:hover{
+    color: bisque;
+}
+h1{
+    text-align: center;
+}
+form{
+    justify-content: center;
+    border-top: 3px solid #3e695c;
+    margin-top: 10px;
+}
+label, input{
+    margin-top: 4px;
+}
+
+#password{
+    margin-top: 0;
+   
+}
+input{
+    width: 100%;
+    border: 1px solid #002D00;
+    min-height: 20px;
+    font-family:'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.forgot{
+    position: absolute;
+    top: 51%;
+    right: 40%;
+    font-size: small;
+}
+#terms-and-conditions{
+    width: auto;
+    margin-right: 0.5px;
+    vertical-align: middle;
+}
+input[type="submit"]{
+    width: 40%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    min-height: 25px;
+    font-size: 1rem;
+    background-color: #ffffff;
+    color: #002D00;
+    border-radius: 10px;
+}
+.submit{
+    text-decoration: none;
+}

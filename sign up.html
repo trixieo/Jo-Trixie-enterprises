@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="accounts.css">
+    <title>Sign-up to Jo-Trixie's Enterprises</title>
+</head>
+<body>
+    
+    <fieldset class="signup">
+        <h1 class="Sign-up">Sign Up</h1>
+        <form action="">
+            <label for="first-name">First Name 
+                <input id="first-name" type="text" required />
+            </label>
+        <label for="last-name">Last Name 
+            <input id="last-name" type="text" required />
+        </label>
+        <label for="email">Email 
+            <input id="email" type="email" required />
+        </label>
+        <label for="phone-number">Phone Number
+            <input type="text" id="phone-number" required>
+        </label>
+        <label for="new-password">Password 
+            <input id="new-password" type="password"  required />
+        </label>
+        <label for="confirm-password"> Confirm Password 
+            <input id="confirm-password" type="password" pattern="[a-z0-10]{8}" required />
+        </label>
+        <p>Password should contain not less than 8 characters and should have numbers</p>
+        <label for="terms-and-conditions"><input type="checkbox" id="terms-and-conditions" required/> I have read and accepted all the <a href="">terms and conditions</a>.</label>
+        <a href="Login.html" class="submit"><input type="submit" id="submit"></a>
+        </form>
+        
+    </fieldset>
+    
+    
+    
+</body>
+</html>
