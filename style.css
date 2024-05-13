@@ -80,11 +80,20 @@ header{
 @media(max-width: 700px) {
     .header-list li input{
         color: #0000007e;
-        width: 20px;
+        width: 10px;
         height: 20px;
+        margin-left: 10px;
     }
     header{
         font-size: small;
+    }
+    #search-box{
+        width: 150px;
+    }
+    .header-list{
+        display: flex;
+        justify-content: space-evenly;
+        list-style-type: none;
     }
     .menu-section{
         width: 100%;
